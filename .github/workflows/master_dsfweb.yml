@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dsfweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8957AB1DBE04267A474A884B2A657E7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D10FD225F57441884BDD1746EE85A8B }}
           package: .
